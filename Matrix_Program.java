@@ -32,6 +32,7 @@ public class Matrix_Program {
                 System.out.print(a[i][j] + " ");
             }
             System.out.println();
+            System.out.println("asdf");
         }
     }
 }
